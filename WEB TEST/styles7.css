@@ -1,0 +1,21 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 20px;
+}
+
+div {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+p {
+    color: #333;
+}
